@@ -6,12 +6,12 @@ require 'gitomator/classroom/version'
 Gem::Specification.new do |spec|
   spec.name          = "gitomator-classroom"
   spec.version       = Gitomator::Classroom::VERSION
-  spec.authors       = ["Joey Freund"]
-  spec.email         = ["joeyfreund@gmail.com"]
+  spec.authors       = ["Ala Shaabana"]
+  spec.email         = ["ala.shaabana@utoronto.ca"]
 
   spec.summary       = %q{Automated workflow for software engineering courses}
   spec.description   = %q{Library, scripts and conventions that allow instructors to automate their workflow.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/CSC301-W2020"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }

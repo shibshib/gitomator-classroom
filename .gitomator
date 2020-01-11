@@ -1,0 +1,4 @@
+tagging:
+  provider: github
+  access_token: fc734d77cce07bbb9dbf1d064f14057e2a79a6ce
+  organization: CSC301-W2020
