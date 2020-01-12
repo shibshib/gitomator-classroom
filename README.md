@@ -20,9 +20,14 @@ bundle install
 ```
 
 Add a `tagging` section to your [`.gitomator`](http://gitomator.github.io/docs/quick-start/#configure-credentials) file.
-The `tagging` section will look very similar to the `hosting` section:
+The `tagging` section will look very similar to the `hosting` section, so it should look something like:
 
 ```yaml
+hosting:
+  provider: github
+  access_token: YOUR-GITHUB-ACCESS-TOKEN
+  organization: YOUR-GITHUB-ORGANIZATION
+  
 tagging:
   provider: github
   access_token: YOUR-GITHUB-ACCESS-TOKEN
