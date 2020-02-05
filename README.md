@@ -103,6 +103,20 @@ bundle exec bin/gitomator-publish-auto-marker-results
 
 This script will add, commit and push all the files that were created by the auto-marker to a new branch (called `auto-marker`, by default).
 
+## ASSIGNMENT #1 WINTER 2020
+
+clone all repos
+```
+gitomator-clone-repo assignment1.yaml csc301-winter-2020/assignment1_submissions
+```
+
+Grade manually, and place a `grading.txt` file in each repo (DO NOT perform any git add, commit, etc. yet)
+
+# Now you can mass commit to all repos all the grading files in each one. Run the following command from the top directory.
+```
+bundle exec bin/gitomator-publish-marks-manual csc301-winter-2020/assignment1.yaml .  
+```
+
 
 ## License
 
