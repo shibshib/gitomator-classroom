@@ -110,9 +110,9 @@ clone all repos
 gitomator-clone-repo assignment1.yaml csc301-winter-2020/assignment1_submissions
 ```
 
-Grade manually, and place a `grading.txt` file in each repo (DO NOT perform any git add, commit, etc. yet)
+### Grade manually, and place a `grading.txt` file in each repo (DO NOT perform any git add, commit, etc. yet)
 
-# Now you can mass commit to all repos all the grading files in each one. Run the following command from the top directory.
+Now you can mass commit to all repos all the grading files in each one. Run the following command from the top directory.
 ```
 bundle exec bin/gitomator-publish-marks-manual csc301-winter-2020/assignment1.yaml .  
 ```
