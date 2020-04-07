@@ -33,3 +33,296 @@
 2020-02-14 12:01:37.724 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for a2-starter ===
 2020-02-14 12:01:37.839 | DEBUG    | __main__:<module>:1 - Command: python3 xml_to_json.py --xml_file=./coverage.xml --json_file=./coverage.json
 2020-02-14 12:01:38.057 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 17:56:41.151 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 17:56:41.260 | DEBUG    | __main__:<module>:1 - === Running unit tests for a2-starter ===
+2020-04-07 17:56:41.358 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml --cov=a2-starter a2-starter/tests/unit_tests.py
+2020-04-07 17:56:42.584 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 17:56:42.685 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for a2-starter ===
+2020-04-07 17:56:42.783 | DEBUG    | __main__:<module>:1 - Command: python3 xml_to_json.py --xml_file=./coverage.xml --json_file=./coverage.json
+2020-04-07 17:56:42.978 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:05:09.855 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 18:05:09.962 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/A2-trial ===
+2020-04-07 18:05:10.062 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml --cov=assignment2_submissions/A2-trial assignment2_submissions/A2-trial/tests/unit_tests.py
+2020-04-07 18:05:11.114 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:05:11.212 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/A2-trial ===
+2020-04-07 18:05:11.325 | DEBUG    | __main__:<module>:1 - Command: python3 xml_to_json.py --xml_file=./coverage.xml --json_file=./coverage.json
+2020-04-07 18:05:11.530 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:07:15.000 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 18:07:15.098 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/A2-trial ===
+2020-04-07 18:07:15.196 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml --cov=assignment2_submissions/A2-trial assignment2_submissions/A2-trial/tests/unit_tests.py
+2020-04-07 18:07:15.944 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:07:16.053 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/A2-trial ===
+2020-04-07 18:07:16.164 | DEBUG    | __main__:<module>:1 - Command: python3 xml_to_json.py --xml_file=./coverage.xml --json_file=./coverage.json
+2020-04-07 18:07:16.379 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:09:13.722 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 18:09:13.829 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/A2-trial ===
+2020-04-07 18:09:13.936 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml --cov=assignment2_submissions/A2-trial assignment2_submissions/A2-trial/tests/unit_tests.py
+2020-04-07 18:09:15.096 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:09:15.210 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/A2-trial ===
+2020-04-07 18:09:15.326 | DEBUG    | __main__:<module>:1 - Command: python3 xml_to_json.py --xml_file=./coverage.xml --json_file=./coverage.json
+2020-04-07 18:09:15.562 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:09:36.530 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 18:09:36.639 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/A2-trial ===
+2020-04-07 18:09:36.742 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml --cov=assignment2_submissions/A2-trial assignment2_submissions/A2-trial/tests/unit_tests.py
+2020-04-07 18:09:37.664 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:09:37.761 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/A2-trial ===
+2020-04-07 18:09:37.871 | DEBUG    | __main__:<module>:1 - Command: python3 xml_to_json.py --xml_file=./coverage.xml --json_file=./coverage.json
+2020-04-07 18:09:38.116 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:09:47.442 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 18:09:47.543 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/A2-trial ===
+2020-04-07 18:09:47.636 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml --cov=assignment2_submissions/A2-trial assignment2_submissions/A2-trial/tests/unit_tests.py
+2020-04-07 18:09:48.406 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:09:48.513 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/A2-trial ===
+2020-04-07 18:09:48.626 | DEBUG    | __main__:<module>:1 - Command: python3 xml_to_json.py --xml_file=./coverage.xml --json_file=./coverage.json
+2020-04-07 18:09:48.881 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:10:00.204 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 18:10:00.303 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/A2-trial ===
+2020-04-07 18:10:00.400 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml --cov=assignment2_submissions/A2-trial assignment2_submissions/A2-trial/tests/unit_tests.py
+2020-04-07 18:10:01.155 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:10:01.258 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/A2-trial ===
+2020-04-07 18:10:01.363 | DEBUG    | __main__:<module>:1 - Command: python3 xml_to_json.py --xml_file=./coverage.xml --json_file=./coverage.json
+2020-04-07 18:10:01.618 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:10:27.237 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 18:10:27.337 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/A2-trial ===
+2020-04-07 18:10:27.437 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml --cov=assignment2_submissions/A2-trial assignment2_submissions/A2-trial/tests/unit_tests.py
+2020-04-07 18:10:28.181 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:10:28.280 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/A2-trial ===
+2020-04-07 18:10:28.382 | DEBUG    | __main__:<module>:1 - Command: python3 xml_to_json.py --xml_file=./coverage.xml --json_file=./coverage.json
+2020-04-07 18:10:28.620 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:10:40.635 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 18:10:40.739 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/A2-trial ===
+2020-04-07 18:10:40.842 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml --cov=assignment2_submissions/A2-trial assignment2_submissions/A2-trial/tests/unit_tests.py
+2020-04-07 18:10:41.594 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:10:41.701 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/A2-trial ===
+2020-04-07 18:10:41.808 | DEBUG    | __main__:<module>:1 - Command: python3 xml_to_json.py --xml_file=./coverage.xml --json_file=./coverage.json
+2020-04-07 18:10:42.056 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:11:29.687 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 18:11:29.790 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/A2-trial ===
+2020-04-07 18:11:29.895 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml --cov=assignment2_submissions/A2-trial assignment2_submissions/A2-trial/tests/unit_tests.py
+2020-04-07 18:11:30.650 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:11:30.750 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/A2-trial ===
+2020-04-07 18:11:30.849 | DEBUG    | __main__:<module>:1 - Command: python3 xml_to_json.py --xml_file=./coverage.xml --json_file=./coverage.json
+2020-04-07 18:11:46.043 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:11:56.738 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 18:11:56.852 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/A2-trial ===
+2020-04-07 18:11:56.955 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml --cov=assignment2_submissions/A2-trial assignment2_submissions/A2-trial/tests/unit_tests.py
+2020-04-07 18:11:58.009 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:11:58.112 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/A2-trial ===
+2020-04-07 18:11:58.211 | DEBUG    | __main__:<module>:1 - Command: python3 xml_to_json.py --xml_file=./coverage.xml --json_file=./coverage.json
+2020-04-07 18:11:58.444 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:12:15.875 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 18:12:15.976 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/A2-trial ===
+2020-04-07 18:12:16.074 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml --cov=assignment2_submissions/A2-trial assignment2_submissions/A2-trial/tests/unit_tests.py
+2020-04-07 18:12:16.826 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:12:16.939 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/A2-trial ===
+2020-04-07 18:12:17.053 | DEBUG    | __main__:<module>:1 - Command: python3 xml_to_json.py --xml_file=./coverage.xml --json_file=./coverage.json
+2020-04-07 18:12:17.298 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:21:03.000 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 18:21:03.106 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/A2-trial ===
+2020-04-07 18:21:03.207 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml --cov=assignment2_submissions/A2-trial assignment2_submissions/A2-trial/tests/unit_tests.py
+2020-04-07 18:21:04.312 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:21:04.409 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/A2-trial ===
+2020-04-07 18:21:04.523 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/A2-trial/coverage.xml --json_file=assignment2_submissions/A2-trial/coverage.json
+2020-04-07 18:21:04.772 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:23:23.095 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 18:23:23.198 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/A2-trial ===
+2020-04-07 18:23:23.293 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml assignment2_submissions/A2-trial --cov=assignment2_submissions/A2-trial assignment2_submissions/A2-trial/tests/unit_tests.py
+2020-04-07 18:23:24.284 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:23:24.383 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/A2-trial ===
+2020-04-07 18:23:24.497 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/A2-trial/coverage.xml --json_file=assignment2_submissions/A2-trial/coverage.json
+2020-04-07 18:23:24.737 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:24:37.220 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 18:24:37.328 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/A2-trial ===
+2020-04-07 18:24:37.427 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml:assignment2_submissions/A2-trial/coverage.xml --cov=assignment2_submissions/A2-trial assignment2_submissions/A2-trial/tests/unit_tests.py
+2020-04-07 18:24:38.375 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:24:38.472 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/A2-trial ===
+2020-04-07 18:24:38.589 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/A2-trial/coverage.xml --json_file=assignment2_submissions/A2-trial/coverage.json
+2020-04-07 18:24:38.819 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:29:09.558 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 18:29:09.667 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/A2-trial ===
+2020-04-07 18:29:09.763 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml:assignment2_submissions/A2-trial/autograder_coverage.xml --cov=assignment2_submissions/A2-trial assignment2_submissions/A2-trial/tests/unit_tests.py
+2020-04-07 18:29:10.803 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:29:10.898 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/A2-trial ===
+2020-04-07 18:29:11.002 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/A2-trial/autograder_coverage.xml --json_file=assignment2_submissions/A2-trial/autograder_coverage.json
+2020-04-07 18:29:11.247 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:29:29.628 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 18:29:29.725 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/A2-trial ===
+2020-04-07 18:29:29.821 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml:assignment2_submissions/A2-trial/autograder_coverage.xml --cov=assignment2_submissions/A2-trial assignment2_submissions/A2-trial/tests/unit_tests.py
+2020-04-07 18:29:30.771 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:29:30.867 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/A2-trial ===
+2020-04-07 18:29:30.966 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/A2-trial/autograder_coverage.xml --json_file=assignment2_submissions/A2-trial/autograder_coverage.json
+2020-04-07 18:29:31.212 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:29:41.496 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 18:29:41.601 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/A2-trial ===
+2020-04-07 18:29:41.696 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml:assignment2_submissions/A2-trial/autograder_coverage.xml --cov=assignment2_submissions/A2-trial assignment2_submissions/A2-trial/tests/unit_tests.py
+2020-04-07 18:29:42.630 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:29:42.726 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/A2-trial ===
+2020-04-07 18:29:42.828 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/A2-trial/autograder_coverage.xml --json_file=assignment2_submissions/A2-trial/autograder_coverage.json
+2020-04-07 18:29:43.077 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:30:07.247 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 18:30:07.344 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/A2-trial ===
+2020-04-07 18:30:07.445 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml:assignment2_submissions/A2-trial/autograder_coverage.xml --cov=assignment2_submissions/A2-trial assignment2_submissions/A2-trial/tests/unit_tests.py
+2020-04-07 18:30:08.185 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:30:08.281 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/A2-trial ===
+2020-04-07 18:30:08.377 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/A2-trial/autograder_coverage.xml --json_file=assignment2_submissions/A2-trial/autograder_coverage.json
+2020-04-07 18:30:08.625 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:30:38.867 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 18:30:38.976 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/A2-trial ===
+2020-04-07 18:30:39.074 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml:assignment2_submissions/A2-trial/autograder_coverage.xml --cov=assignment2_submissions/A2-trial assignment2_submissions/A2-trial/tests/unit_tests.py
+2020-04-07 18:30:40.098 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:30:40.195 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/A2-trial ===
+2020-04-07 18:30:40.307 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/A2-trial/autograder_coverage.xml --json_file=assignment2_submissions/A2-trial/autograder_coverage.json
+2020-04-07 18:30:40.550 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:30:50.219 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 18:30:50.315 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/A2-trial ===
+2020-04-07 18:30:50.413 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml:assignment2_submissions/A2-trial/autograder_coverage.xml --cov=assignment2_submissions/A2-trial assignment2_submissions/A2-trial/tests/unit_tests.py
+2020-04-07 18:30:51.156 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:30:51.260 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/A2-trial ===
+2020-04-07 18:30:51.371 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/A2-trial/autograder_coverage.xml --json_file=assignment2_submissions/A2-trial/autograder_coverage.json
+2020-04-07 18:30:51.634 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:31:11.926 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 18:31:12.026 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/A2-trial ===
+2020-04-07 18:31:12.122 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml:assignment2_submissions/A2-trial/autograder_coverage.xml --cov=assignment2_submissions/A2-trial assignment2_submissions/A2-trial/tests/unit_tests.py
+2020-04-07 18:31:12.860 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:31:12.962 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/A2-trial ===
+2020-04-07 18:31:13.060 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/A2-trial/autograder_coverage.xml --json_file=assignment2_submissions/A2-trial/autograder_coverage.json
+2020-04-07 18:31:13.284 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:32:32.250 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 18:32:32.351 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/A2-trial ===
+2020-04-07 18:32:32.448 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml:assignment2_submissions/A2-trial/autograder_coverage.xml --cov=assignment2_submissions/A2-trial assignment2_submissions/A2-trial/tests/unit_tests.py
+2020-04-07 18:32:33.194 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:32:33.290 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/A2-trial ===
+2020-04-07 18:32:33.386 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/A2-trial/autograder_coverage.xml --json_file=assignment2_submissions/A2-trial/autograder_coverage.json
+2020-04-07 18:32:47.224 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:33:02.004 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 18:33:02.103 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/A2-trial ===
+2020-04-07 18:33:02.200 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml:assignment2_submissions/A2-trial/autograder_coverage.xml --cov=assignment2_submissions/A2-trial assignment2_submissions/A2-trial/tests/unit_tests.py
+2020-04-07 18:33:02.921 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:33:03.019 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/A2-trial ===
+2020-04-07 18:33:03.114 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/A2-trial/autograder_coverage.xml --json_file=assignment2_submissions/A2-trial/autograder_coverage.json
+2020-04-07 18:33:03.359 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:35:45.805 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 18:35:45.913 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/AbhiKapoor55_sultansidhu_a2 ===
+2020-04-07 18:35:46.010 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml:assignment2_submissions/AbhiKapoor55_sultansidhu_a2/autograder_coverage.xml --cov=assignment2_submissions/AbhiKapoor55_sultansidhu_a2 assignment2_submissions/AbhiKapoor55_sultansidhu_a2/tests/unit_tests.py
+2020-04-07 18:35:46.834 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:35:46.933 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/AbhiKapoor55_sultansidhu_a2 ===
+2020-04-07 18:35:47.030 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/AbhiKapoor55_sultansidhu_a2/autograder_coverage.xml --json_file=assignment2_submissions/AbhiKapoor55_sultansidhu_a2/autograder_coverage.json
+2020-04-07 18:35:47.299 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:37:34.895 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 18:37:35.001 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/A2-trial ===
+2020-04-07 18:37:35.096 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml:assignment2_submissions/A2-trial/autograder_coverage.xml --cov=assignment2_submissions/A2-trial assignment2_submissions/A2-trial/tests/unit_tests.py
+2020-04-07 18:37:36.229 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 18:37:36.327 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/A2-trial ===
+2020-04-07 18:37:36.443 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/A2-trial/autograder_coverage.xml --json_file=assignment2_submissions/A2-trial/autograder_coverage.json
+2020-04-07 18:37:36.687 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 19:11:15.411 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 19:11:15.517 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/A2-trial ===
+2020-04-07 19:11:15.612 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml:assignment2_submissions/A2-trial/autograder_coverage.xml --cov=assignment2_submissions/A2-trial assignment2_submissions/A2-trial/tests/unit_tests.py
+2020-04-07 19:11:16.540 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 19:11:16.632 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/A2-trial ===
+2020-04-07 19:11:16.725 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/A2-trial/autograder_coverage.xml --json_file=assignment2_submissions/A2-trial/autograder_coverage.json
+2020-04-07 19:11:16.941 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 19:11:24.686 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 19:11:24.784 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/AbhiKapoor55_sultansidhu_a2/ ===
+2020-04-07 19:11:24.879 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml:assignment2_submissions/AbhiKapoor55_sultansidhu_a2//autograder_coverage.xml --cov=assignment2_submissions/AbhiKapoor55_sultansidhu_a2/ assignment2_submissions/AbhiKapoor55_sultansidhu_a2//tests/unit_tests.py
+2020-04-07 19:11:25.525 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 19:11:25.630 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/AbhiKapoor55_sultansidhu_a2/ ===
+2020-04-07 19:11:25.733 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/AbhiKapoor55_sultansidhu_a2//autograder_coverage.xml --json_file=assignment2_submissions/AbhiKapoor55_sultansidhu_a2//autograder_coverage.json
+2020-04-07 19:11:25.968 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 19:14:30.405 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 19:14:30.510 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:14:30.610 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml:assignment2_submissions/aggarw68_cuneoste/autograder_coverage.xml --cov=assignment2_submissions/aggarw68_cuneoste assignment2_submissions/aggarw68_cuneoste/tests/unit_tests.py
+2020-04-07 19:14:31.291 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 19:14:31.390 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:14:31.490 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/aggarw68_cuneoste/autograder_coverage.xml --json_file=assignment2_submissions/aggarw68_cuneoste/autograder_coverage.json
+2020-04-07 19:14:31.762 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 19:24:28.376 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 19:24:28.480 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:24:28.589 | DEBUG    | __main__:<module>:1 - Command: python3 -m pytest --cov-report xml:assignment2_submissions/aggarw68_cuneoste/autograder_coverage.xml --cov=assignment2_submissions/aggarw68_cuneoste assignment2_submissions/aggarw68_cuneoste/tests/unit_tests.py
+2020-04-07 19:24:29.224 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 19:24:29.321 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:24:29.422 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/aggarw68_cuneoste/autograder_coverage.xml --json_file=assignment2_submissions/aggarw68_cuneoste/autograder_coverage.json
+2020-04-07 19:24:29.670 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 19:26:20.749 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 19:26:20.848 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:26:20.946 | DEBUG    | __main__:<module>:1 - Command: python3 -m pytest --cov-report xml:./autograder_coverage.xml --cov=. tests/unit_tests.py
+2020-04-07 19:26:21.438 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 19:26:21.538 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:26:21.631 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/aggarw68_cuneoste/autograder_coverage.xml --json_file=assignment2_submissions/aggarw68_cuneoste/autograder_coverage.json
+2020-04-07 19:26:21.860 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 19:26:37.844 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 19:26:37.944 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:26:38.045 | DEBUG    | __main__:<module>:1 - === Moving to assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:26:38.144 | DEBUG    | __main__:<module>:1 - Command: python3 -m pytest --cov-report xml:./autograder_coverage.xml --cov=. tests/unit_tests.py
+2020-04-07 19:26:38.719 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 19:26:38.814 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:26:38.915 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/aggarw68_cuneoste/autograder_coverage.xml --json_file=assignment2_submissions/aggarw68_cuneoste/autograder_coverage.json
+2020-04-07 19:26:39.154 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 19:28:48.331 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 19:28:48.437 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:28:48.541 | DEBUG    | __main__:<module>:1 - === Moving to assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:28:48.658 | DEBUG    | __main__:<module>:1 - Command: python3 -m pytest --cov-report xml:./autograder_coverage.xml --cov=. tests/unit_tests.py
+2020-04-07 19:28:49.202 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 19:28:49.302 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:28:49.402 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/aggarw68_cuneoste/autograder_coverage.xml --json_file=assignment2_submissions/aggarw68_cuneoste/autograder_coverage.json
+2020-04-07 19:28:49.641 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 19:29:10.156 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 19:29:10.268 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:29:10.365 | DEBUG    | __main__:<module>:1 - === Moving to assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:29:10.464 | DEBUG    | __main__:<module>:1 - Command: python3 -m pytest --cov-report xml:./autograder_coverage.xml --cov=. tests/unit_tests.py
+2020-04-07 19:29:10.962 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 19:29:11.062 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:29:11.161 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/aggarw68_cuneoste/autograder_coverage.xml --json_file=assignment2_submissions/aggarw68_cuneoste/autograder_coverage.json
+2020-04-07 19:29:11.405 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 19:30:46.666 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 19:30:46.769 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:30:46.863 | DEBUG    | __main__:<module>:1 - === Moving to assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:30:46.958 | DEBUG    | __main__:<module>:1 - Command: python3 -m pytest --cov-report xml:./autograder_coverage.xml --cov=. tests/unit_tests.py
+2020-04-07 19:30:47.478 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 19:30:47.577 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:30:47.679 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/aggarw68_cuneoste/autograder_coverage.xml --json_file=assignment2_submissions/aggarw68_cuneoste/autograder_coverage.json
+2020-04-07 19:30:47.921 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 19:32:06.440 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 19:32:06.545 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:32:06.639 | DEBUG    | __main__:<module>:1 - === Moving to assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:32:06.740 | DEBUG    | __main__:<module>:1 - Command: python3 -m pytest --cov-report xml:./autograder_coverage.xml --cov=. tests/unit_tests.py
+2020-04-07 19:32:07.227 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 19:32:07.325 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:32:07.419 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/aggarw68_cuneoste/autograder_coverage.xml --json_file=assignment2_submissions/aggarw68_cuneoste/autograder_coverage.json
+2020-04-07 19:32:07.650 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 19:32:37.611 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 19:32:37.713 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:32:37.813 | DEBUG    | __main__:<module>:1 - Command: python3 -m pytest --cov-report xml:assignment2_submissions/aggarw68_cuneoste/autograder_coverage.xml --cov=assignment2_submissions/aggarw68_cuneoste assignment2_submissions/aggarw68_cuneoste/tests/unit_tests.py
+2020-04-07 19:32:38.461 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 19:32:38.557 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:32:38.652 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/aggarw68_cuneoste/autograder_coverage.xml --json_file=assignment2_submissions/aggarw68_cuneoste/autograder_coverage.json
+2020-04-07 19:32:38.900 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 19:36:45.784 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 19:36:45.885 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:36:45.984 | DEBUG    | __main__:<module>:1 - Command: python3 -m pytest --cov-report xml:assignment2_submissions/aggarw68_cuneoste/autograder_coverage.xml --cov=assignment2_submissions/aggarw68_cuneoste assignment2_submissions/aggarw68_cuneoste/tests/unit_tests.py
+2020-04-07 19:36:46.648 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 19:36:46.749 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:36:46.850 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/aggarw68_cuneoste/autograder_coverage.xml --json_file=assignment2_submissions/aggarw68_cuneoste/autograder_coverage.json
+2020-04-07 19:36:47.135 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 19:37:50.819 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 19:37:50.917 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:38:08.301 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 19:38:08.400 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:38:44.870 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 19:38:44.973 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:39:03.888 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 19:39:03.994 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:39:41.365 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 19:39:41.469 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:40:07.815 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 19:40:07.915 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:41:40.640 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 19:41:40.739 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:41:41.809 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/aggarw68_cuneoste ===
+2020-04-07 19:41:41.922 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/aggarw68_cuneoste/autograder_coverage.xml --json_file=assignment2_submissions/aggarw68_cuneoste/autograder_coverage.json
+2020-04-07 19:41:42.172 | DEBUG    | __main__:<module>:1 - 
+2020-04-07 19:42:00.349 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-04-07 19:42:00.447 | DEBUG    | __main__:<module>:1 - === Running unit tests for assignment2_submissions/ahsanlai_mahmo241 ===
+2020-04-07 19:42:01.376 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for assignment2_submissions/ahsanlai_mahmo241 ===
+2020-04-07 19:42:01.473 | DEBUG    | __main__:<module>:1 - Command: python3 coverage_grader.py --xml_file=assignment2_submissions/ahsanlai_mahmo241/autograder_coverage.xml --json_file=assignment2_submissions/ahsanlai_mahmo241/autograder_coverage.json
+2020-04-07 19:42:01.685 | DEBUG    | __main__:<module>:1 - 

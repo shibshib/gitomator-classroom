@@ -19,15 +19,16 @@ function convert_xml_to_json() {
 	log""
 }
 
-REPO="a2-starter"
+REPO=$1
 log "=== Starting A2 Autograder ==="
 
 log "=== Running unit tests for $REPO ==="
-COMMAND="pytest --cov-report xml --cov=$REPO $REPO/tests/unit_tests.py"
-
+cd $REPO
+COMMAND="python3 -m pytest --cov-report xml:./autograder_coverage.xml --cov=. ./tests/unit_tests.py"
 run_unit_tests
 
+cd ../../
 log "=== Retrieving Coverage file for $REPO ==="
-COMMAND="python3 xml_to_json.py --xml_file=./coverage.xml --json_file=./coverage.json"
+COMMAND="python3 coverage_grader.py --xml_file=$REPO/autograder_coverage.xml --json_file=$REPO/autograder_coverage.json"
 convert_xml_to_json
 
