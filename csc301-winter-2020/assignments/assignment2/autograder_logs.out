@@ -1,0 +1,35 @@
+2020-02-14 11:52:06.292 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-02-14 11:52:06.401 | DEBUG    | __main__:<module>:1 - === Running unit tests for a2-starter ===
+2020-02-14 11:52:06.511 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml --cov=a2-starter a2-starter/tests/unit_tests.py
+2020-02-14 11:52:07.612 | DEBUG    | __main__:<module>:1 - 
+2020-02-14 11:52:07.722 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for a2-starter ===
+2020-02-14 11:52:07.827 | DEBUG    | __main__:<module>:1 - Command: python3 xml_to_json.py --xml_file=./coverage.xml --json_file=./coverage.json
+2020-02-14 11:52:08.031 | DEBUG    | __main__:<module>:1 - 
+2020-02-14 11:54:08.876 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-02-14 11:54:08.986 | DEBUG    | __main__:<module>:1 - === Running unit tests for a2-starter ===
+2020-02-14 11:54:09.091 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml --cov=a2-starter a2-starter/tests/unit_tests.py
+2020-02-14 11:54:10.137 | DEBUG    | __main__:<module>:1 - 
+2020-02-14 11:54:10.238 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for a2-starter ===
+2020-02-14 11:54:10.352 | DEBUG    | __main__:<module>:1 - Command: python3 xml_to_json.py --xml_file=./coverage.xml --json_file=./coverage.json
+2020-02-14 11:54:10.505 | DEBUG    | __main__:<module>:1 - 
+2020-02-14 11:55:14.055 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-02-14 11:55:14.160 | DEBUG    | __main__:<module>:1 - === Running unit tests for a2-starter ===
+2020-02-14 11:55:14.264 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml --cov=a2-starter a2-starter/tests/unit_tests.py
+2020-02-14 11:55:15.300 | DEBUG    | __main__:<module>:1 - 
+2020-02-14 11:55:15.409 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for a2-starter ===
+2020-02-14 11:55:15.508 | DEBUG    | __main__:<module>:1 - Command: python3 xml_to_json.py --xml_file=./coverage.xml --json_file=./coverage.json
+2020-02-14 11:55:15.660 | DEBUG    | __main__:<module>:1 - 
+2020-02-14 11:55:22.230 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-02-14 11:55:22.338 | DEBUG    | __main__:<module>:1 - === Running unit tests for a2-starter ===
+2020-02-14 11:55:22.442 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml --cov=a2-starter a2-starter/tests/unit_tests.py
+2020-02-14 11:55:23.188 | DEBUG    | __main__:<module>:1 - 
+2020-02-14 11:55:23.296 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for a2-starter ===
+2020-02-14 11:55:23.394 | DEBUG    | __main__:<module>:1 - Command: python3 xml_to_json.py --xml_file=./coverage.xml --json_file=./coverage.json
+2020-02-14 11:55:23.613 | DEBUG    | __main__:<module>:1 - 
+2020-02-14 12:01:36.611 | DEBUG    | __main__:<module>:1 - === Starting A2 Autograder ===
+2020-02-14 12:01:36.724 | DEBUG    | __main__:<module>:1 - === Running unit tests for a2-starter ===
+2020-02-14 12:01:36.827 | DEBUG    | __main__:<module>:1 - Command: pytest --cov-report xml --cov=a2-starter a2-starter/tests/unit_tests.py
+2020-02-14 12:01:37.616 | DEBUG    | __main__:<module>:1 - 
+2020-02-14 12:01:37.724 | DEBUG    | __main__:<module>:1 - === Retrieving Coverage file for a2-starter ===
+2020-02-14 12:01:37.839 | DEBUG    | __main__:<module>:1 - Command: python3 xml_to_json.py --xml_file=./coverage.xml --json_file=./coverage.json
+2020-02-14 12:01:38.057 | DEBUG    | __main__:<module>:1 - 
